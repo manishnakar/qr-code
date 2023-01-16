@@ -5,8 +5,9 @@
 This is a simple Node.js server that allows you to generate QR code images from a given URL. The server uses the express library to handle HTTP requests and the qr-image library to generate the QR code images.
 
 ## Requirements
-Node.js
-npm
+* Node.js
+
+* npm
 ## Installation
 Clone the repository or download the source code
 Run npm install to install the dependencies
